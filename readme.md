@@ -1,0 +1,1 @@
+Camera.js => Line 20 to add other camera types
