@@ -19,9 +19,10 @@ export function CameraPage() {
     //ADD OTHER CAMERA TYPES HERE 
     const labels = [
         { label: 'Top', value: '0' },
-        { label: 'Bottom', value: '1' },
-        { label: 'Left', value: '2' },
-        { label: 'Right', value: '3' },
+        { label: 'I_Front', value: '1' },
+        { label: 'I_Back', value: '2' },
+        { label: 'O_Front', value: '3' },
+        { label: 'O_Back', value: '4' },
       ];
 
       const renderLabel = () => {
